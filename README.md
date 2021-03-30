@@ -18,7 +18,11 @@ const queue = (arr, item) => {
 <body>
   <p> Hello World</p>
 </body>
-
 ```
-
-![Checkmark](https://cdn.iconscout.com/icon/premium/png-256-thumb/checkmark-62-382245.png)
+```
+body{
+display: flex;
+justify-content: center;
+}
+```
+![Checkmark](https://webstockreview.net/images/checkmark-clipart-green-5.png)
