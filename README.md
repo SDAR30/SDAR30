@@ -6,10 +6,10 @@ I’m Shoaib Dar, a detail-oriented and analytical Full Stack Developer who love
 ## Module 1:  JavaScript
 
 ```javascript
-const queue = (arr, item) => {
-  arr.push(item);
-  var removed = arr.shift();
-  return removed; 
+const nextInLine = (queue, newPerson) => {
+  queue.push(newPerson);
+  let oldPerson = queue.shift();
+  return oldPerson; 
 }
 ```
 
