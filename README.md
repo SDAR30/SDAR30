@@ -58,3 +58,8 @@ const Home = (props) => {
 }         
 ```
 
+## Module 4: Full Stack: PERK-Stack Postgres, Express, React, Knex.js
+
+```
+In progress...
+```
