@@ -27,10 +27,11 @@ justify-content: center;
 ```
 ![Checkmark](https://webstockreview.net/images/checkmark-clipart-green-5.png)
 
-```
+
 
 ## Module 3: REACT
 
+```
 const Home = (props) => {
     const [name, setName] = useState('');
     const [people, setPeople] = useState([]);
