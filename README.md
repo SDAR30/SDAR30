@@ -26,3 +26,39 @@ justify-content: center;
 }
 ```
 ![Checkmark](https://webstockreview.net/images/checkmark-clipart-green-5.png)
+
+```
+
+## Module 3: REACT
+
+const Home = (props) => {
+    const classes = useStyles();
+    const [name, setName] = useState('');
+    const [people, setPeople] = useState([]);
+    
+    const handleName = (e) => setName(e.target.value);
+
+    const retrievePeople = async () => {
+        try {
+            const { data } = await axios.get("/api/people");
+            setPeople(data)
+        } catch (error) {
+            setPeople([])
+            console.log(error)
+        }
+    }
+
+    useEffect(() => retrievePeople(), [])
+
+    return (<section className="home-container">
+                  <label >Name:
+                <input type='text' size="40" value={name} onChange={handleName} required />
+                    </label>
+                    <section className="people-list">
+                {people.map(person => <ListItem  personName={person.name} key={person.id} id={person.id}  />)}
+                    </section>
+            </section>)
+}
+                
+```
+
