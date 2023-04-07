@@ -5,4 +5,9 @@ I’m Shoaib Dar, a detail-oriented and analytical Full Stack Developer who love
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SDAR30&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDAR30&layout=compact&bg_color=141421)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/sdar30)
+![Total Vistors](https://gpvc.arturio.dev/sdar30)
+
+
+
+
+
