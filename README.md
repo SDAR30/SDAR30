@@ -5,7 +5,7 @@ I'm Shoaib Dar, a detail-oriented and analytical Full Stack Developer with a pas
 
 Growing up, my community played a crucial role in helping me through difficult times, and I am now dedicated to giving back. In my free time, I enjoy reading books and engaging with other people to learn about the world and the people in it. Motivated by a passion for learning, I persistently strive to enhance both my personal and professional growth.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SDAR30&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDAR30&layout=compact&bg_color=141421)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SDAR30&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDAR30&layout=compact&bg_color=141421)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Total Visitors<br>
