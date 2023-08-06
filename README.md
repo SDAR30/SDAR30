@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Shoaib Dar, a detail-oriented and analytical Full Stack Developer with a passion for solving problems and puzzles. I hold a Bachelor's degree in Computer Science, where I gained expertise in various areas, including artificial intelligence, data structures, and algorithms. And I recently completed  Pursuit's rigorous software engineering  program.
+I'm Shoaib Dar, a detail-oriented Full Stack Developer with a passion for solving problems and puzzles. I hold a Bachelor's degree in Computer Science, where I gained expertise in various areas, including artificial intelligence, data structures, and algorithm optimization. And I recently completed Pursuit's rigorous software engineering  program.
 
 My upbringing has instilled in me a profound appreciation for the power of community support. As I embark on my professional journey, I am deeply motivated to reciprocate this support and make a positive impact on society. I also enjoy reading books and engaging with other people in my free time, to learn about the world and the people in it. Motivated by a passion for learning, I persistently strive to enhance both my personal and professional growth.
 
